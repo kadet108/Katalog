@@ -1,0 +1,3 @@
+# Module katalog
+# RPC service class, partial path of RPC policy file
+com.blusoft.client.GreetingService, 13440F72572DC047BA04C818AC1BA2A9.gwt.rpc

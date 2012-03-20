@@ -1,0 +1,2 @@
+serviceClass: com.blusoft.client.GreetingService
+path: 13440F72572DC047BA04C818AC1BA2A9.gwt.rpc
